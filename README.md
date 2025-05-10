@@ -18,7 +18,7 @@ I'm a passionate and results-oriented UX/UI Designer with a knack for creating i
 ### 🛠️ Tech Stack & Tools
 
 * **Design Software:** Figma, Adobe Illustrator, Adobe Photoshop
-* **Web Technologies:** WordPress
+* **Web Technologies:** WordPress, HTML, Tailwind, Bootstrap
 * **Productivity & Collaboration:** Google Workspace, Notion, GitHub
 
 ---
