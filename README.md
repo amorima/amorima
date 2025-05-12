@@ -26,7 +26,7 @@ I'm a passionate and results-oriented UX/UI Designer with a knack for creating i
 ### 🎓 Education
 
 * **B.Sc. in Web Information Systems and Technologies** - IPP-ESMAD (Currently Enrolled - Expected 2027)
-    * Focuses on product development and emerging concepts in UI/UX design.
+    * Learning to design, develop, and manage web applications and information systems, blending tech with UX/design
 * **Google UX Design Specialization** - Google (2024)
     * Covered UX research, inclusive design, wireframes, high-fidelity prototypes, Figma, and Adobe XD.
 * **B.Sc. in Computer Graphics and Multimedia Engineering** - IPVC-ESTG (2011-2015, Unfinished)
