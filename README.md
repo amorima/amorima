@@ -75,3 +75,7 @@ I'm a passionate and results-oriented UX/UI Designer with a knack for creating i
 * **Email:** work@antonioamorim.pt
 * **LinkedIn:** www.linkedin.com/in/antonioam
 * **Linktree:** linktr.ee/antonio.amorim
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amorima&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
